@@ -1,0 +1,35 @@
+﻿  Header1.cpp
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(5): error C2653: 'FbullCowGame': is not a class or namespace name
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(7): error C3861: 'Reset': identifier not found
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(8): warning C4508: 'FbullCowGame': function should return a value; 'void' return type assumed
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(9): error C2510: 'FbullCowGame': left of '::' must be a class/struct/union
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(11): error C2737: 'int32': 'constexpr' object must be initialized
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(11): error C2146: syntax error: missing ';' before identifier 'MAX_TRIES'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(11): error C2065: 'MAX_TRIES': undeclared identifier
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(12): error C2065: 'MyMaxTries': undeclared identifier
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(12): error C2065: 'MAX_TRIES': undeclared identifier
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(13): error C2065: 'MyCurrentTry': undeclared identifier
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(15): error C2510: 'FbullCowGame': left of '::' must be a class/struct/union
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(15): error C2146: syntax error: missing ';' before identifier 'GetMaxTries'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(15): error C2143: syntax error: missing ';' before '{'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(15): error C2447: '{': missing function header (old-style formal list?)
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(16): error C2510: 'FbullCowGame': left of '::' must be a class/struct/union
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(16): error C2086: 'int int32': redefinition
+  c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(15): note: see declaration of 'int32'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(16): error C2146: syntax error: missing ';' before identifier 'GetCurrentTry'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(16): error C2143: syntax error: missing ';' before '{'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(16): error C2447: '{': missing function header (old-style formal list?)
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(17): error C2510: 'FbullCowGame': left of '::' must be a class/struct/union
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(18): error C2270: 'IsGameWon': modifiers not allowed on nonmember functions
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(21): error C2510: 'FbullCowGame': left of '::' must be a class/struct/union
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(21): error C2065: 'FString': undeclared identifier
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(22): error C2448: 'CheckGuessValidity': function-style initializer appears to be a function definition
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(26): error C2510: 'FbullCowGame': left of '::' must be a class/struct/union
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(26): error C2146: syntax error: missing ';' before identifier 'SubmitGuess'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(27): error C2143: syntax error: missing ';' before '{'
+c:\users\sunil\source\repos\consoleapplication1\consoleapplication1\header1.cpp(27): error C2447: '{': missing function header (old-style formal list?)
